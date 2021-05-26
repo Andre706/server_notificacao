@@ -1,2 +1,2 @@
 # server_notificacao
-api para enviar notificações
+api para enviar notificações.
